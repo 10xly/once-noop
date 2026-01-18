@@ -1,0 +1,34 @@
+{
+  "name": "once-noop",
+  "version": "2.0.0",
+  "description": "A noop function that can only be run once",
+  "keywords": [
+    "once",
+    "noop",
+    "jacob-zuma",
+    "noop2",
+    "noop3",
+    "noop4",
+    "noop6"
+  ],
+  "homepage": "https://github.com/10xly/once-noop#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/once-noop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/once-noop.git"
+  },
+  "license": "MIT",
+  "author": "tj-comimts",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "feint": "^1.0.3",
+    "qc-core": "^0.0.0"
+  },
+  "devDependencies": {}
+}
